@@ -1,0 +1,184 @@
+# Reading D:/ModelSim/modelsim_ase/tcl/vsim/pref.tcl 
+# do PCO_comolex_run_msim_rtl_verilog.do 
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Copying D:\ModelSim\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# ** Warning: Copied D:\ModelSim\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini.
+#          Updated modelsim.ini.
+# 
+# vlog -vlog01compat -work work +incdir+D:/Codefield/QuatusII/PCO_complex_stu/rtl {D:/Codefield/QuatusII/PCO_complex_stu/rtl/ram.v}
+# Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+# -- Compiling module ram
+# 
+# Top level modules:
+# 	ram
+# vlog -vlog01compat -work work +incdir+D:/Codefield/QuatusII/PCO_complex_stu/rtl {D:/Codefield/QuatusII/PCO_complex_stu/rtl/z.v}
+# Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+# -- Compiling module z
+# 
+# Top level modules:
+# 	z
+# vlog -vlog01compat -work work +incdir+D:/Codefield/QuatusII/PCO_complex_stu/rtl {D:/Codefield/QuatusII/PCO_complex_stu/rtl/tr.v}
+# Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+# -- Compiling module tr
+# 
+# Top level modules:
+# 	tr
+# vlog -vlog01compat -work work +incdir+D:/Codefield/QuatusII/PCO_complex_stu/rtl {D:/Codefield/QuatusII/PCO_complex_stu/rtl/top.v}
+# Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+# -- Compiling module top
+# 
+# Top level modules:
+# 	top
+# vlog -vlog01compat -work work +incdir+D:/Codefield/QuatusII/PCO_complex_stu/rtl {D:/Codefield/QuatusII/PCO_complex_stu/rtl/r.v}
+# Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+# -- Compiling module r
+# 
+# Top level modules:
+# 	r
+# vlog -vlog01compat -work work +incdir+D:/Codefield/QuatusII/PCO_complex_stu/rtl {D:/Codefield/QuatusII/PCO_complex_stu/rtl/pc.v}
+# Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+# -- Compiling module pc
+# 
+# Top level modules:
+# 	pc
+# vlog -vlog01compat -work work +incdir+D:/Codefield/QuatusII/PCO_complex_stu/rtl {D:/Codefield/QuatusII/PCO_complex_stu/rtl/ir.v}
+# Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+# -- Compiling module ir
+# 
+# Top level modules:
+# 	ir
+# vlog -vlog01compat -work work +incdir+D:/Codefield/QuatusII/PCO_complex_stu/rtl {D:/Codefield/QuatusII/PCO_complex_stu/rtl/dr.v}
+# Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+# -- Compiling module dr
+# 
+# Top level modules:
+# 	dr
+# vlog -vlog01compat -work work +incdir+D:/Codefield/QuatusII/PCO_complex_stu/rtl {D:/Codefield/QuatusII/PCO_complex_stu/rtl/cpu.v}
+# Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+# -- Compiling module cpu
+# 
+# Top level modules:
+# 	cpu
+# vlog -vlog01compat -work work +incdir+D:/Codefield/QuatusII/PCO_complex_stu/rtl {D:/Codefield/QuatusII/PCO_complex_stu/rtl/control.v}
+# Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+# -- Compiling module control
+# 
+# Top level modules:
+# 	control
+# vlog -vlog01compat -work work +incdir+D:/Codefield/QuatusII/PCO_complex_stu/rtl {D:/Codefield/QuatusII/PCO_complex_stu/rtl/ar.v}
+# Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+# -- Compiling module ar
+# 
+# Top level modules:
+# 	ar
+# vlog -vlog01compat -work work +incdir+D:/Codefield/QuatusII/PCO_complex_stu/rtl {D:/Codefield/QuatusII/PCO_complex_stu/rtl/alu.v}
+# Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+# -- Compiling module alu
+# 
+# Top level modules:
+# 	alu
+# vlog -vlog01compat -work work +incdir+D:/Codefield/QuatusII/PCO_complex_stu/rtl {D:/Codefield/QuatusII/PCO_complex_stu/rtl/ac.v}
+# Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+# -- Compiling module ac
+# 
+# Top level modules:
+# 	ac
+# vlog -vlog01compat -work work +incdir+D:/Codefield/QuatusII/PCO_complex_stu/rtl {D:/Codefield/QuatusII/PCO_complex_stu/rtl/light_show.v}
+# Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+# -- Compiling module light_show
+# 
+# Top level modules:
+# 	light_show
+# vlog -vlog01compat -work work +incdir+D:/Codefield/QuatusII/PCO_complex_stu/rtl {D:/Codefield/QuatusII/PCO_complex_stu/rtl/clk_div.v}
+# Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+# -- Compiling module clk_div
+# 
+# Top level modules:
+# 	clk_div
+# vlog -vlog01compat -work work +incdir+D:/Codefield/QuatusII/PCO_complex_stu/rtl {D:/Codefield/QuatusII/PCO_complex_stu/rtl/CPU_Controller.v}
+# Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+# -- Compiling module CPU_Controller
+# 
+# Top level modules:
+# 	CPU_Controller
+# vlog -vlog01compat -work work +incdir+D:/Codefield/QuatusII/PCO_complex_stu/rtl {D:/Codefield/QuatusII/PCO_complex_stu/rtl/qtsj.v}
+# Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+# -- Compiling module qtsj
+# 
+# Top level modules:
+# 	qtsj
+# 
+# vlog -vlog01compat -work work +incdir+D:/Codefield/QuatusII/PCO_complex_stu/simulation/modelsim {D:/Codefield/QuatusII/PCO_complex_stu/simulation/modelsim/top.vt}
+# Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+# -- Compiling module top_vlg_tst
+# 
+# Top level modules:
+# 	top_vlg_tst
+# 
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs="+acc"  top_vlg_tst
+# vsim -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs=\"+acc\" -t 1ps top_vlg_tst 
+# Loading work.top_vlg_tst
+# Loading work.top
+# Loading work.clk_div
+# Loading work.CPU_Controller
+# Loading work.cpu
+# Loading work.qtsj
+# Loading work.ar
+# Loading work.pc
+# Loading work.dr
+# Loading work.tr
+# Loading work.ir
+# Loading work.r
+# Loading work.ac
+# Loading work.alu
+# Loading work.z
+# Loading work.control
+# Loading work.ram
+# Loading work.light_show
+# ** Warning: (vsim-3017) D:/Codefield/QuatusII/PCO_complex_stu/rtl/top.v(60): [TFMPC] - Too few port connections. Expected 36, found 35.
+# 
+#         Region: /top_vlg_tst/i1/mcpu
+# ** Warning: (vsim-3015) D:/Codefield/QuatusII/PCO_complex_stu/rtl/top.v(60): [PCDPC] - Port size (8 or 8) does not match connection size (1) for port 'zdbus'. The port definition is at: D:/Codefield/QuatusII/PCO_complex_stu/rtl/cpu.v(3).
+# 
+#         Region: /top_vlg_tst/i1/mcpu
+# ** Warning: (vsim-3722) D:/Codefield/QuatusII/PCO_complex_stu/rtl/top.v(60): [TFMPC] - Missing connection for port 'alus'.
+# 
+# ** Warning: (vsim-3015) D:/Codefield/QuatusII/PCO_complex_stu/rtl/cpu.v(55): [PCDPC] - Port size (1 or 1) does not match connection size (8) for port 'z'. The port definition is at: D:/Codefield/QuatusII/PCO_complex_stu/rtl/control.v(14).
+# 
+#         Region: /top_vlg_tst/i1/mcpu/mcontrol
+# 
+# add wave *
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run -all
+# ** Note: $finish    : D:/Codefield/QuatusII/PCO_complex_stu/simulation/modelsim/top.vt(382)
+#    Time: 38250 ns  Iteration: 0  Instance: /top_vlg_tst
+# 1
+# Break in Module top_vlg_tst at D:/Codefield/QuatusII/PCO_complex_stu/simulation/modelsim/top.vt line 382
+# Simulation Breakpoint: 1
+# Break in Module top_vlg_tst at D:/Codefield/QuatusII/PCO_complex_stu/simulation/modelsim/top.vt line 382
+# MACRO ./PCO_comolex_run_msim_rtl_verilog.do PAUSED at line 33
+restart -f
+# ** Warning: (vsim-3017) D:/Codefield/QuatusII/PCO_complex_stu/rtl/top.v(60): [TFMPC] - Too few port connections. Expected 36, found 35.
+# 
+#         Region: /top_vlg_tst/i1/mcpu
+# ** Warning: (vsim-3015) D:/Codefield/QuatusII/PCO_complex_stu/rtl/top.v(60): [PCDPC] - Port size (8 or 8) does not match connection size (1) for port 'zdbus'. The port definition is at: D:/Codefield/QuatusII/PCO_complex_stu/rtl/cpu.v(3).
+# 
+#         Region: /top_vlg_tst/i1/mcpu
+# ** Warning: (vsim-3722) D:/Codefield/QuatusII/PCO_complex_stu/rtl/top.v(60): [TFMPC] - Missing connection for port 'alus'.
+# 
+# ** Warning: (vsim-3015) D:/Codefield/QuatusII/PCO_complex_stu/rtl/cpu.v(55): [PCDPC] - Port size (1 or 1) does not match connection size (8) for port 'z'. The port definition is at: D:/Codefield/QuatusII/PCO_complex_stu/rtl/control.v(14).
+# 
+#         Region: /top_vlg_tst/i1/mcpu/mcontrol
+run -all
+# ** Note: $finish    : D:/Codefield/QuatusII/PCO_complex_stu/simulation/modelsim/top.vt(382)
+#    Time: 38250 ns  Iteration: 0  Instance: /top_vlg_tst
+# 1
+# Break in Module top_vlg_tst at D:/Codefield/QuatusII/PCO_complex_stu/simulation/modelsim/top.vt line 382

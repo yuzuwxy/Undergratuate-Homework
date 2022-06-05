@@ -1,0 +1,366 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\Codefield\QuatusII\PCO_complex_stu\simulation\modelsim
+vac
+Z1 IXoTcYQ0V4CL5H[T=RDIe71
+Z2 V<VT6LoR;CP0MWE:_=aTIg3
+Z3 dD:\Codefield\QuatusII\PCO_complex_stu\simulation\modelsim
+Z4 w1639498148
+Z5 8D:/Codefield/QuatusII/PCO_complex_stu/rtl/ac.v
+Z6 FD:/Codefield/QuatusII/PCO_complex_stu/rtl/ac.v
+L0 8
+Z7 OV;L;10.1e;51
+r1
+31
+Z8 o-vlog01compat -work work -O0
+Z9 !s92 -vlog01compat -work work +incdir+D:/Codefield/QuatusII/PCO_complex_stu/rtl -O0
+Z10 !s100 g[X`S2R`n2n2lK5_f6KA:3
+Z11 !s108 1642765519.652000
+Z12 !s107 D:/Codefield/QuatusII/PCO_complex_stu/rtl/ac.v|
+Z13 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Codefield/QuatusII/PCO_complex_stu/rtl|D:/Codefield/QuatusII/PCO_complex_stu/rtl/ac.v|
+!i10b 1
+!s85 0
+!s101 -O0
+valu
+Z14 I@<9OSd97zNZfBlO9i44cY1
+Z15 VOnFeM_jD<;4`Q98SfZBaE1
+R3
+Z16 w1639685722
+Z17 8D:/Codefield/QuatusII/PCO_complex_stu/rtl/alu.v
+Z18 FD:/Codefield/QuatusII/PCO_complex_stu/rtl/alu.v
+L0 2
+R7
+r1
+31
+R8
+R9
+Z19 !s100 TH`1G?>a;aI?LF2SkLcU<1
+Z20 !s108 1642765519.597000
+Z21 !s107 D:/Codefield/QuatusII/PCO_complex_stu/rtl/alu.v|
+Z22 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Codefield/QuatusII/PCO_complex_stu/rtl|D:/Codefield/QuatusII/PCO_complex_stu/rtl/alu.v|
+!i10b 1
+!s85 0
+!s101 -O0
+var
+Z23 IE6n?`njk]@F8zD4JY1f`e2
+Z24 VSUR4=nn@9XWd721honKZS3
+R3
+Z25 w1639621671
+Z26 8D:/Codefield/QuatusII/PCO_complex_stu/rtl/ar.v
+Z27 FD:/Codefield/QuatusII/PCO_complex_stu/rtl/ar.v
+L0 9
+R7
+r1
+31
+R8
+R9
+Z28 !s100 Y5D75W;3Q65nn`_^4blZE3
+Z29 !s108 1642765519.544000
+Z30 !s107 D:/Codefield/QuatusII/PCO_complex_stu/rtl/ar.v|
+Z31 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Codefield/QuatusII/PCO_complex_stu/rtl|D:/Codefield/QuatusII/PCO_complex_stu/rtl/ar.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vclk_div
+Z32 Ida[1i8=6aoZg>B=nP^`oc1
+Z33 VBL^JGUH?:P=jZGFZ1=d1L0
+R3
+Z34 w1638671278
+Z35 8D:/Codefield/QuatusII/PCO_complex_stu/rtl/clk_div.v
+Z36 FD:/Codefield/QuatusII/PCO_complex_stu/rtl/clk_div.v
+L0 3
+R7
+r1
+31
+R8
+R9
+Z37 !s100 hZajSWei_4E>YBAoYTK5<1
+Z38 !s108 1642765519.763000
+Z39 !s107 D:/Codefield/QuatusII/PCO_complex_stu/rtl/clk_div.v|
+Z40 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Codefield/QuatusII/PCO_complex_stu/rtl|D:/Codefield/QuatusII/PCO_complex_stu/rtl/clk_div.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vcontrol
+Z41 I8CYkOm49[4j?lgI8A0:jK0
+Z42 VzGMWinceXA3FS;KjZio^k3
+R3
+Z43 w1639795408
+Z44 8D:/Codefield/QuatusII/PCO_complex_stu/rtl/control.v
+Z45 FD:/Codefield/QuatusII/PCO_complex_stu/rtl/control.v
+L0 14
+R7
+r1
+31
+R8
+R9
+Z46 !s100 9AUBA@e_eTEbNYSmfM4=l2
+Z47 !s108 1642765519.487000
+Z48 !s107 D:/Codefield/QuatusII/PCO_complex_stu/rtl/control.v|
+Z49 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Codefield/QuatusII/PCO_complex_stu/rtl|D:/Codefield/QuatusII/PCO_complex_stu/rtl/control.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vcpu
+Z50 Io^Jbh8`dWLi=kcenb^nHM1
+Z51 Vh?AL47iIOHTJzIbaNH[T_0
+R3
+Z52 w1639799482
+Z53 8D:/Codefield/QuatusII/PCO_complex_stu/rtl/cpu.v
+Z54 FD:/Codefield/QuatusII/PCO_complex_stu/rtl/cpu.v
+L0 3
+R7
+r1
+31
+R8
+R9
+Z55 !s100 TX66f3>=h[?P`fkISLo]H0
+Z56 !s108 1642765519.435000
+Z57 !s107 D:/Codefield/QuatusII/PCO_complex_stu/rtl/cpu.v|
+Z58 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Codefield/QuatusII/PCO_complex_stu/rtl|D:/Codefield/QuatusII/PCO_complex_stu/rtl/cpu.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vCPU_Controller
+Z59 I;h5kP8[ga;hM[R1Si973Z0
+Z60 VgJP;oog[KFk?ZRZKj5F3P2
+R3
+Z61 w1638672404
+Z62 8D:/Codefield/QuatusII/PCO_complex_stu/rtl/CPU_Controller.v
+Z63 FD:/Codefield/QuatusII/PCO_complex_stu/rtl/CPU_Controller.v
+L0 7
+R7
+r1
+31
+R8
+R9
+Z64 n@c@p@u_@controller
+Z65 !s100 j05aJhb08=L;0;;3<zfHd3
+Z66 !s108 1642765519.815000
+Z67 !s107 D:/Codefield/QuatusII/PCO_complex_stu/rtl/CPU_Controller.v|
+Z68 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Codefield/QuatusII/PCO_complex_stu/rtl|D:/Codefield/QuatusII/PCO_complex_stu/rtl/CPU_Controller.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vdr
+Z69 I81<327TOJFI0@Y6MF?ZT60
+Z70 VCVY5c:DI4WF`C5FNFT<UO2
+R3
+Z71 w1639379424
+Z72 8D:/Codefield/QuatusII/PCO_complex_stu/rtl/dr.v
+Z73 FD:/Codefield/QuatusII/PCO_complex_stu/rtl/dr.v
+L0 8
+R7
+r1
+31
+R8
+R9
+Z74 !s100 <0nY`^Tz:Kf;96STnU0lK0
+Z75 !s108 1642765519.384000
+Z76 !s107 D:/Codefield/QuatusII/PCO_complex_stu/rtl/dr.v|
+Z77 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Codefield/QuatusII/PCO_complex_stu/rtl|D:/Codefield/QuatusII/PCO_complex_stu/rtl/dr.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vir
+Z78 I_oJK7ZDQj50P?7`2;kjFG1
+Z79 VT6Ro5YGOz[EPI]]@b2oOb3
+R3
+Z80 w1639379052
+Z81 8D:/Codefield/QuatusII/PCO_complex_stu/rtl/ir.v
+Z82 FD:/Codefield/QuatusII/PCO_complex_stu/rtl/ir.v
+L0 9
+R7
+r1
+31
+R8
+R9
+Z83 !s100 7>h?`Jl:W0@Zb4_[o8i<F1
+Z84 !s108 1642765519.333000
+Z85 !s107 D:/Codefield/QuatusII/PCO_complex_stu/rtl/ir.v|
+Z86 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Codefield/QuatusII/PCO_complex_stu/rtl|D:/Codefield/QuatusII/PCO_complex_stu/rtl/ir.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vlight_show
+Z87 IUZP9GdcY`H]50TCSbXHbh1
+Z88 VQB1IS9?Gz4dBbNZX6GV2^3
+R3
+Z89 w1639795092
+Z90 8D:/Codefield/QuatusII/PCO_complex_stu/rtl/light_show.v
+Z91 FD:/Codefield/QuatusII/PCO_complex_stu/rtl/light_show.v
+L0 13
+R7
+r1
+31
+R8
+R9
+Z92 !s100 RNTPU3GcbgakAL;[HLke_2
+Z93 !s108 1642765519.703000
+Z94 !s107 D:/Codefield/QuatusII/PCO_complex_stu/rtl/light_show.v|
+Z95 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Codefield/QuatusII/PCO_complex_stu/rtl|D:/Codefield/QuatusII/PCO_complex_stu/rtl/light_show.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vpc
+Z96 I`C]3<kQAf_Bz]1ZbZIDQj2
+Z97 VmRJ@8@k8LF4@AeEETcN4T3
+R3
+Z98 w1639547466
+Z99 8D:/Codefield/QuatusII/PCO_complex_stu/rtl/pc.v
+Z100 FD:/Codefield/QuatusII/PCO_complex_stu/rtl/pc.v
+L0 9
+R7
+r1
+31
+R8
+R9
+Z101 !s100 1iEIRm9XPYUocgI7a?9<_0
+Z102 !s108 1642765519.280000
+Z103 !s107 D:/Codefield/QuatusII/PCO_complex_stu/rtl/pc.v|
+Z104 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Codefield/QuatusII/PCO_complex_stu/rtl|D:/Codefield/QuatusII/PCO_complex_stu/rtl/pc.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vqtsj
+Z105 I2;YcMVIJX]Gdz;@oR>mV13
+Z106 VL__P<B;7Mo?8K9;LcUd[61
+R3
+Z107 w1638672642
+Z108 8D:/Codefield/QuatusII/PCO_complex_stu/rtl/qtsj.v
+Z109 FD:/Codefield/QuatusII/PCO_complex_stu/rtl/qtsj.v
+L0 13
+R7
+r1
+31
+R8
+R9
+!i10b 1
+Z110 !s100 o2OK5zBo_ibW7[:eDd69d1
+!s85 0
+Z111 !s108 1642765519.868000
+Z112 !s107 D:/Codefield/QuatusII/PCO_complex_stu/rtl/qtsj.v|
+Z113 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Codefield/QuatusII/PCO_complex_stu/rtl|D:/Codefield/QuatusII/PCO_complex_stu/rtl/qtsj.v|
+!s101 -O0
+vr
+Z114 IR1gV79Jfmc_YD9^ThD8Wm0
+Z115 VVD]=?]d31Yz7H=Xei]6az1
+R3
+Z116 w1639379121
+Z117 8D:/Codefield/QuatusII/PCO_complex_stu/rtl/r.v
+Z118 FD:/Codefield/QuatusII/PCO_complex_stu/rtl/r.v
+L0 8
+R7
+r1
+31
+R8
+R9
+Z119 !s100 GnR8H;7@^E5?SO=gSeelH1
+Z120 !s108 1642765519.227000
+Z121 !s107 D:/Codefield/QuatusII/PCO_complex_stu/rtl/r.v|
+Z122 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Codefield/QuatusII/PCO_complex_stu/rtl|D:/Codefield/QuatusII/PCO_complex_stu/rtl/r.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vram
+Z123 Ikl<WeQA0oRiD_2DF`j3m`0
+Z124 VJBb5h44ne>;`:Z8@MUeVS3
+R3
+Z125 w1638672701
+Z126 8D:/Codefield/QuatusII/PCO_complex_stu/rtl/ram.v
+Z127 FD:/Codefield/QuatusII/PCO_complex_stu/rtl/ram.v
+L0 14
+R7
+r1
+31
+R8
+Z128 !s100 k9K3eXC2IB1k586DYV<o61
+Z129 !s108 1642765519.001000
+Z130 !s107 D:/Codefield/QuatusII/PCO_complex_stu/rtl/ram.v|
+Z131 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Codefield/QuatusII/PCO_complex_stu/rtl|D:/Codefield/QuatusII/PCO_complex_stu/rtl/ram.v|
+R9
+!i10b 1
+!s85 0
+!s101 -O0
+vtop
+Z132 I1mo[odLBNWJjbm`n_o6;G3
+Z133 V;?YWlDD0kh93XmY8B6?@e2
+R3
+Z134 w1639799330
+Z135 8D:/Codefield/QuatusII/PCO_complex_stu/rtl/top.v
+Z136 FD:/Codefield/QuatusII/PCO_complex_stu/rtl/top.v
+L0 6
+R7
+r1
+31
+R8
+R9
+Z137 !s100 E9l>[^VEO:Qi3HnbnmQ:A0
+Z138 !s108 1642765519.173000
+Z139 !s107 D:/Codefield/QuatusII/PCO_complex_stu/rtl/top.v|
+Z140 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Codefield/QuatusII/PCO_complex_stu/rtl|D:/Codefield/QuatusII/PCO_complex_stu/rtl/top.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtop_vlg_tst
+!i10b 1
+!s100 F=EHR8A9j6A[NMm=bFkzN1
+I64nj9hVSD8^>_n]jD4Mlc3
+VWH`X8iAJ@;Z6_Z>8HHbjI2
+R3
+w1639809568
+8D:/Codefield/QuatusII/PCO_complex_stu/simulation/modelsim/top.vt
+FD:/Codefield/QuatusII/PCO_complex_stu/simulation/modelsim/top.vt
+L0 29
+R7
+r1
+!s85 0
+31
+!s108 1642765519.921000
+!s107 D:/Codefield/QuatusII/PCO_complex_stu/simulation/modelsim/top.vt|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Codefield/QuatusII/PCO_complex_stu/simulation/modelsim|D:/Codefield/QuatusII/PCO_complex_stu/simulation/modelsim/top.vt|
+!s101 -O0
+R8
+!s92 -vlog01compat -work work +incdir+D:/Codefield/QuatusII/PCO_complex_stu/simulation/modelsim -O0
+vtr
+Z141 ISc21`009SBF_4IcAHU]QW0
+Z142 Vg<II86?Lk9I?]mBFLT6hc1
+R3
+Z143 w1639379535
+Z144 8D:/Codefield/QuatusII/PCO_complex_stu/rtl/tr.v
+Z145 FD:/Codefield/QuatusII/PCO_complex_stu/rtl/tr.v
+L0 8
+R7
+r1
+31
+R8
+R9
+Z146 !s100 J9?ciF:CdLZh9]oV:]lCl2
+Z147 !s108 1642765519.123000
+Z148 !s107 D:/Codefield/QuatusII/PCO_complex_stu/rtl/tr.v|
+Z149 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Codefield/QuatusII/PCO_complex_stu/rtl|D:/Codefield/QuatusII/PCO_complex_stu/rtl/tr.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vz
+Z150 Im8oEk8^Q^l2NI`?LGL_YS1
+Z151 VmXUPmj=G5ibN[4d8FUo1>0
+R3
+Z152 w1639379693
+Z153 8D:/Codefield/QuatusII/PCO_complex_stu/rtl/z.v
+Z154 FD:/Codefield/QuatusII/PCO_complex_stu/rtl/z.v
+L0 8
+R7
+r1
+31
+R8
+R9
+Z155 !s100 ]J<=O:SdV8[Zbm54df^OM3
+Z156 !s108 1642765519.072000
+Z157 !s107 D:/Codefield/QuatusII/PCO_complex_stu/rtl/z.v|
+Z158 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Codefield/QuatusII/PCO_complex_stu/rtl|D:/Codefield/QuatusII/PCO_complex_stu/rtl/z.v|
+!i10b 1
+!s85 0
+!s101 -O0
