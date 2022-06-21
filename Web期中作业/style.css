@@ -1,0 +1,180 @@
+*{
+    margin: 0 auto;
+}
+
+#sticky img {
+    width: 900px;
+    height: 75px;
+}
+
+#all {
+    width: 900px;
+    text-align: center;
+}
+
+#banner {
+    margin: 0px;
+    height: 220px;
+    position: relative;
+}
+
+#small {
+    position: absolute;
+    height: 21px;
+    display: inline-block;
+    top: 150px;
+    right: 100px;
+}
+
+#header {
+    background-color: rgb(133, 105, 82);
+    margin-top: 3px;
+    height: 25px;
+}
+
+#header span {
+    font-size: 17px;
+    color: white;
+    display: inline-block;
+    line-height: 25px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+    transition: font-size;
+    transition-duration: 1000ms;
+    transition-delay: 100ms;
+}
+
+a:hover {
+    font-size: 20px;
+}
+
+#content {
+    width: 900px;
+    margin-top: 3px;
+}
+
+#sidebar {
+    float: left;
+    width: 337px;
+    margin-top: 0;
+    margin-right: 3px;
+    background-color: rgb(185, 149, 123);  
+}
+
+h1 {
+    margin-top: 20px;
+}
+
+table,th,td {
+    margin-top: 30px;
+    border: 0px;
+}
+
+#side-images {
+    margin-top: 30px;
+}
+
+.lefttrans {
+    transform: rotate(5deg);
+}
+
+.rigtrans {
+    transform: rotate(-10deg);
+}
+
+#side-images img {
+    height: 114px;
+    width: 110px;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 10px solid antiquewhite;
+    box-shadow: 5px 5px 10px rgb(82, 76, 69);
+}    
+
+#main {
+    background-color: rgb(165, 124, 91);
+    float: right;
+    width: 560px;
+    height: 1010px;
+}
+
+#first {
+    position: relative;
+    top: 50px;
+    height: 200px;
+    width: 560px;
+
+}
+
+#second {
+    position: relative;
+    top: 100px;
+    height: 200px;
+    width: 560px;
+}
+
+#third {
+    position: relative;
+    top: 150px;
+    height: 200px;
+    width: 560px;
+}
+
+#forth {
+    position: relative;
+    top: 200px;
+    height: 200px;
+    width: 560px;
+}
+
+.title {
+    color: rgb(66, 29, 2);
+    font-size: 20px;
+    line-height: 40px;
+}
+
+#main img {
+    float: left;
+    margin-left: 20px;
+    padding: 5px;
+    outline: dashed;
+    transition: transform;
+    transition-duration: 500ms;
+    transition-delay: 100ms;
+}
+
+#main img:hover {
+    transform: rotate(10deg);
+}
+
+.text {
+    float: right;
+    width: 330px;
+    margin-right: 15px;
+    text-align: left;
+}
+
+p {
+    line-height: 25px;
+}
+
+#footer {
+    margin-top: 3px;
+    display: inline-block;
+    width: 900px;
+    height: 25px;
+    background-color: rgb(105, 87, 71);
+}
+
+#footer span {
+    line-height: 25px;
+    display: inline-block;
+    font-size: 15px;
+    text-align: center;
+}
